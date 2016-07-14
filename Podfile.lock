@@ -1,0 +1,10 @@
+PODS:
+  - ISTimeline (0.0.4)
+
+DEPENDENCIES:
+  - ISTimeline (~> 0.0.4)
+
+SPEC CHECKSUMS:
+  ISTimeline: 48a505c78fd1bccd116d89c7edd50a6b2752a490
+
+COCOAPODS: 0.39.0
